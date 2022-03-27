@@ -1,0 +1,6 @@
+name: MinigamesCreator
+version: '1.0'
+main: com.special70.minigamescreator.MinigamesCreator
+api-version: 1.17
+authors: [ Special70 ]
+description: Allows you to create minigames with useful tools
