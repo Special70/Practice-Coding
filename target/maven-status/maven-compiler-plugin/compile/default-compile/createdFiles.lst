@@ -1,2 +1,3 @@
-com\special70\minigamescreator\EventListeners.class
+com\special70\minigamescreator\Commands\Commands01.class
 com\special70\minigamescreator\MinigamesCreator.class
+com\special70\minigamescreator\EventsManager.class
